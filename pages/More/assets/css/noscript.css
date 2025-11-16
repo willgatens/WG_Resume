@@ -15,6 +15,7 @@
 
 	body.is-preload #main .thumb {
 		pointer-events: auto;
+		font-weight: bold;
 		background-color: #ffffff;
 		background-color: rgba(255, 255, 255, 0.7);
 		opacity: 1;
@@ -28,3 +29,4 @@
 		-ms-transform: none;
 		transform: none;
 	}
+
